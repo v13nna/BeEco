@@ -1,0 +1,262 @@
+	
+	<style>
+	
+		#container
+		
+		{
+			width: auto;
+			margin-left: auto;
+			margin-right: auto;
+			height: auto;
+		}
+		
+		#naglowek
+		
+		{
+			text-align: center;
+			background-color: black;
+			color: white;
+			padding: 10px;
+		}
+		
+		 li.menu {
+            width: 160px;
+			
+            text-align: center-left;
+            color: #2c2c2c;
+            text-decoration: none;
+			list-style: none;
+			font-weight: bold;
+			}
+        li.menu a:hover {
+            background-image: url(tabhover.gif);
+            text-decoration: none;
+            font-weight: bold; 
+			color: #D3D3D3; }
+			
+			#menu
+			{
+				border-top-style: solid;
+				border-bottom-style: solid;
+				border-left-style: solid;
+				border-right-style: solid;
+				width: 245px;
+				height: 316px;
+				padding: 10px;
+				background-color: black;
+				float: left;
+			}
+			
+			a {color: white; }
+			a { text-decoration: none; }
+		
+		#EnergiaWody
+		{
+			padding: 1px;
+			margin-left: 20px;
+			margin-right: 20px;
+			font-size: bold;
+			float: left;
+			text-align: justify;
+			line-height: 170%;
+			text-shadow: 2px 2px 5px black;
+		}
+		
+		#energiawodna
+		{
+			float: left;
+			background-image: url(energiawodna2.jpg);
+			color: white;
+			width: 940px;
+			height: 324px;
+		}
+		
+		#wodnanaglowek
+		{
+			text-align: center;
+			padding: 1px;
+			text-shadow: 2px 2px 5px black;
+		}
+		
+		#wod
+		{
+			background-color: black;
+			width: 940px;
+			height: 340px;
+			float: left;
+		}
+		
+		#EnergiaWiatru
+		{
+			padding: 1px;
+			margin-left: 20px;
+			margin-right: 20px;
+			font-size: bold;
+			float: left;
+			text-align: justify;
+			line-height: 170%;
+			text-shadow: 2px 2px 5px black;
+		}
+		
+		#energiawiatrowa
+		{
+			float: left;
+			background-image: url(energiawiatrowa2.jpg);
+			color: white;
+			width: 940px;
+			height: 324px;
+		}
+		
+		#wiatrowanaglowek
+		{
+			text-align: center;
+			padding: 1px;
+			text-shadow: 2px 2px 5px black;
+		}
+		
+		#wiatr
+		{
+			background-color: black;
+			width: 940px;
+			height: 340px;
+			float: left;
+		}
+		
+		#EnergiaGeoterm
+		{
+			padding: 1px;
+			margin-left: 20px;
+			margin-right: 20px;
+			font-size: bold;
+			float: left;
+			text-align: justify;
+			line-height: 170%;
+			text-shadow: 2px 2px 5px black;
+		}
+		
+		#energiageotermalna
+		{
+			float: left;
+			background-image: url(energiageotermalna2.jpg);
+			color: white;
+			width: 940px;
+			height: 324px;
+		}
+		
+		#geotermalnanaglowek
+		{
+			text-align: center;
+			padding: 1px;
+			text-shadow: 2px 2px 5px black;
+		}
+		
+		#geoterm
+		{
+			background-color: black;
+			width: 940px;
+			height: 340px;
+			float: left;
+		}
+		
+				#EnergiaSlonca
+		{
+			padding: 1px;
+			margin-left: 20px;
+			margin-right: 20px;
+			font-size: bold;
+			float: left;
+			text-align: justify;
+			line-height: 170%;
+			text-shadow: 2px 2px 5px black;
+		}
+		
+		#energiasloneczna
+		{
+			float: left;
+			background-image: url(energiasloneczna2.jpg);
+			color: white;
+			width: 940px;
+			height: 324px;
+		}
+		
+		#slonecznanaglowek
+		{
+			text-align: center;
+			padding: 1px;
+			text-shadow: 2px 2px 5px black;
+		}
+		
+		#slonce
+		{
+			background-color: black;
+			width: 940px;
+			height: 340px;
+			float: left;
+		}
+		
+		#EnergiaBio
+		{
+			padding: 1px;
+			margin-left: 20px;
+			margin-right: 20px;
+			font-size: bold;
+			float: left;
+			text-align: justify;
+			line-height: 170%;
+			text-shadow: 2px 2px 5px black;
+		}
+		
+		#biomasa
+		{
+			float: left;
+			background-image: url(biomasa.jpg);
+			color: white;
+			width: 940px;
+			height: 324px;
+		}
+		
+		#biomasanaglowek
+		{
+			text-align: center;
+			padding: 1px;
+			text-shadow: 2px 2px 5px black;
+		}
+		
+		#bio
+		{
+			background-color: black;
+			width: 940px;
+			height: 340px;
+			float: left;
+		}
+		
+		#stopka
+		{
+			padding: 20px;
+			background-color: black;
+			text-align: center;
+			color: white;
+			font-size: small;
+			font-weight: bold;
+		}
+		
+		}
+		
+		#glowna
+		{
+			background-color: black;
+			width: 940px;
+			height: 340px;
+			float: left;
+		}
+		
+		#zegar
+		{
+			background-image: url(backgroundzegar.jpg);
+			color: white;
+			height: 324px;
+			width: 940px;
+			text-align: center;
+			float: left;
+			font-size: xxx-large;
+		}

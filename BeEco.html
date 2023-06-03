@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+
+
+<head>
+	<meta charset="utf-8" />
+		<title>BeEco</title>
+		<meta name="description" content=" Krótki opis i zestawienie każdego rodzaju źródeł odnawialnej energii, abyś już nie musiał się zastanawiać w co zainwestować swój czas i pieniądze."/>
+		<meta name="keywords" content="energia, energia odnawialna, ekologia, zanieczyszczenia, biomasa. energia słoneczna, energia wiatrowa, energia wodna, energia geotermalna" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+		
+		<link rel="stylesheet" type="text/css" href="CSS.css"
+		
+</head>
+	
+<body>
+
+	<div id="container">
+	
+		<div id="naglowek">
+			<img src="banner1.jpg" width=1170px height=200px>
+		</div>
+		
+		<div id="menu">
+		<ul>
+     <div id="menuwoda"><li class="menu"><a href="energiawody.html">Energia wodna</a> </li></div>
+    <div id="menuwiatr"><li class="menu"><a href="energiawiatrowa.html">Energia wiatrowa</a></li></div>
+    <div id="menugeo"><li class="menu"><a href="energiageotermalna.html">Energia geotermalna</a></li></div>
+	<div id="menuslonce"><li class="menu"><a href="energiasloneczna.html">Energia słoneczna</a></li></div>
+    <div id="menubio"><li class="menu"><a href="biomasa.html">Biomasa</a></li></div>
+		</ul>
+		</div>
+		
+		<div id="glowna">
+	
+		<div id="zegar"></div>
+
+<script>
+function zegar() {
+  var data = new Date();
+  var godzina = data.getHours();
+  var min = data.getMinutes();
+  var sek = data.getSeconds();
+  var terazjest = ""+godzina+
+  ((min<10)?":0":":")+min+
+  ((sek<10)?":0":":")+sek;
+  document.getElementById("zegar").innerHTML = terazjest;
+  setTimeout("zegar()", 1000);
+}
+zegar();
+</script>
+
+
+		
+		<div id="stopka">
+		<footer> &copy; Natalia Kwiatkowska, Aleksandra Płucienniczek, Alicja Zapor </footer>
+		</div>
+		
+		</div>
+		
+	</div>
+	
+</body>
+	
