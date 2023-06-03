@@ -249,13 +249,23 @@
 			float: left;
 		}
 		
-		#zegar
+	#zegar
 		{
 			background-image: url(backgroundzegar.jpg);
 			color: white;
-			height: 324px;
-			width: 940px;
+			height: ;
+			width: 76%;
 			text-align: center;
 			float: left;
 			font-size: xxx-large;
+		}
+		
+		#stopka1
+		{
+			padding: 10%;
+			background-color: black;
+			text-align: center;
+			color: white;
+			font-size: small;
+			font-weight: bold;
 		}
