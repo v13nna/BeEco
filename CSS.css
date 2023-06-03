@@ -52,9 +52,9 @@
 		
 		#EnergiaWody
 		{
-			padding: 1px;
-			margin-left: 20px;
-			margin-right: 20px;
+			padding: 5%;
+			margin-left: 15%;
+			margin-right: 15%;
 			font-size: bold;
 			float: left;
 			text-align: justify;
@@ -67,30 +67,30 @@
 			float: left;
 			background-image: url(energiawodna2.jpg);
 			color: white;
-			width: 940px;
-			height: 324px;
+			width: 100%;
+			height: 100%;
 		}
 		
 		#wodnanaglowek
 		{
-			text-align: center;
-			padding: 1px;
+			ttext-align: center;
+			padding: 5%;
 			text-shadow: 2px 2px 5px black;
 		}
 		
 		#wod
 		{
 			background-color: black;
-			width: 940px;
-			height: 340px;
+			width: 76%;
+			height: 100%;
 			float: left;
 		}
 		
 		#EnergiaWiatru
 		{
-			padding: 1px;
-			margin-left: 20px;
-			margin-right: 20px;
+			padding: 5%;
+			margin-left: 15%;
+			margin-right: 15%;
 			font-size: bold;
 			float: left;
 			text-align: justify;
@@ -103,30 +103,30 @@
 			float: left;
 			background-image: url(energiawiatrowa2.jpg);
 			color: white;
-			width: 940px;
-			height: 324px;
+			width: 100%;
+			height: 100%;
 		}
 		
 		#wiatrowanaglowek
 		{
 			text-align: center;
-			padding: 1px;
+			padding: 5%;
 			text-shadow: 2px 2px 5px black;
 		}
 		
 		#wiatr
 		{
 			background-color: black;
-			width: 940px;
-			height: 340px;
+			width: 76%;
+			height: 100%;
 			float: left;
 		}
 		
 		#EnergiaGeoterm
 		{
-			padding: 1px;
-			margin-left: 20px;
-			margin-right: 20px;
+			padding: 5%;
+			margin-left: 15%;
+			margin-right: 15%;
 			font-size: bold;
 			float: left;
 			text-align: justify;
@@ -139,38 +139,26 @@
 			float: left;
 			background-image: url(energiageotermalna2.jpg);
 			color: white;
-			width: 940px;
-			height: 324px;
+			width: 100%;
+			height: 100%;
 		}
 		
 		#geotermalnanaglowek
 		{
 			text-align: center;
-			padding: 1px;
+			padding: 5%;
 			text-shadow: 2px 2px 5px black;
 		}
 		
 		#geoterm
 		{
 			background-color: black;
-			width: 940px;
-			height: 340px;
+			width: 76%;
+			height: 100%;
 			float: left;
 		}
 		
 				#EnergiaSlonca
-		{
-			padding: 1px;
-			margin-left: 20px;
-			margin-right: 20px;
-			font-size: bold;
-			float: left;
-			text-align: justify;
-			line-height: 170%;
-			text-shadow: 2px 2px 5px black;
-		}
-		
-		#EnergiaSlonca
 		{
 			padding: 5%;
 			margin-left: 15%;
@@ -204,12 +192,13 @@
 			width: 76%;
 			height: 100%;
 			float: left;
+		}
 		
 		#EnergiaBio
 		{
-			padding: 1px;
-			margin-left: 20px;
-			margin-right: 20px;
+			padding: 5%;
+			margin-left: 15%;
+			margin-right: 15%;
 			font-size: bold;
 			float: left;
 			text-align: justify;
@@ -222,28 +211,28 @@
 			float: left;
 			background-image: url(biomasa.jpg);
 			color: white;
-			width: 940px;
-			height: 324px;
+			width: 100%;
+			height: 100%;
 		}
 		
 		#biomasanaglowek
 		{
 			text-align: center;
-			padding: 1px;
+			padding: 5%;
 			text-shadow: 2px 2px 5px black;
 		}
 		
 		#bio
 		{
 			background-color: black;
-			width: 940px;
-			height: 340px;
+			width: 76%;
+			height: 100%;
 			float: left;
 		}
 		
 		#stopka
 		{
-			padding: 20px;
+			padding: 2%;
 			background-color: black;
 			text-align: center;
 			color: white;
@@ -256,8 +245,8 @@
 		#glowna
 		{
 			background-color: black;
-			width: 940px;
-			height: 340px;
+			width: 76%;
+			height: 100%;
 			float: left;
 		}
 		
