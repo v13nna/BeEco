@@ -170,29 +170,40 @@
 			text-shadow: 2px 2px 5px black;
 		}
 		
+		#EnergiaSlonca
+		{
+			padding: 5%;
+			margin-left: 15%;
+			margin-right: 15%;
+			font-size: bold;
+			float: left;
+			text-align: justify;
+			line-height: 170%;
+			text-shadow: 2px 2px 5px black;
+		}
+		
 		#energiasloneczna
 		{
 			float: left;
 			background-image: url(energiasloneczna2.jpg);
 			color: white;
-			width: 940px;
-			height: 324px;
+			width: 100%;
+			height: 100%;
 		}
 		
 		#slonecznanaglowek
 		{
 			text-align: center;
-			padding: 1px;
+			padding: 5%;
 			text-shadow: 2px 2px 5px black;
 		}
 		
 		#slonce
 		{
 			background-color: black;
-			width: 940px;
-			height: 340px;
+			width: 76%;
+			height: 100%;
 			float: left;
-		}
 		
 		#EnergiaBio
 		{
